@@ -1,0 +1,8 @@
+*.pyc
+.idea/
+__pycache__/
+.mypy_cache/
+.ropeproject/
+.venv/
+venv/
+env/
